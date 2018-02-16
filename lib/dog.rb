@@ -5,7 +5,6 @@ class Dog
     @breed = pug
   end
 
-end
+"Mutt" =Dog,new
 
-fido = Dog.new
-fido.breed = mutt
+end
