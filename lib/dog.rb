@@ -3,13 +3,13 @@ class Dog
     @name = fido
   end
 
-  def name
-    @name
-  end
-  
+
+
 
   def initialize(pug)
     @breed = pug
   end
 
 end
+
+pug = Dog.new("Mutt")
