@@ -4,7 +4,5 @@ class Dog
     @name = fido
     @breed = pug
   end
-  
+
 end
-
-
