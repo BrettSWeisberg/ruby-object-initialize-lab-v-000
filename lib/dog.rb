@@ -3,8 +3,6 @@ class Dog
     @name = fido
     @breed = pug
   end
+end
 
-  def breed (mutt)
-   @breed = mutt
- end
- end
+fido = Dog.new("Mutt")
