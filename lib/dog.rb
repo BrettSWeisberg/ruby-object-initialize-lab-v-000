@@ -1,11 +1,6 @@
 class Dog
-  def initialize
-    @breed = [ ]
+  def initialize(fido)
+    @breed = fido
   end
 
-
-
-def breed
-  @breed
-  end
 end
