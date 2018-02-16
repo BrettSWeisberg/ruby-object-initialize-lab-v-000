@@ -9,4 +9,8 @@ class Dog
     @breed = mutt
   end
 
+def breed
+  @breed
+end
+
 end
