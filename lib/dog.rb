@@ -5,6 +5,6 @@ class Dog
     @breed = pug
   end
 
-"Mutt" = Dog.new
+
 
 end
